@@ -1,0 +1,205 @@
+/***** BASE STYLES *****/
+
+h1 {
+    font-family: "Shadows into light", cursive;
+    font-size: 90px;
+    color: #cc3535;
+}
+
+h2 {
+    font-family: "Shadows into light", cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #cc3535;
+}
+
+h3, h4 {
+    font-family: "Poppins", sans-serif;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+p, a {
+    font-family: "PT Serif", serif;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1425px;
+    clear: both;
+}
+
+.half-width {
+    width: 652.5px;
+    float: left;
+}
+
+.third-width {
+    width: 475px;
+    float: left;
+}
+
+.project {
+    height: 251px;
+    clear: both;
+    padding: 30px 60px 30px 60px;
+}
+
+/***** HEADER *****/
+
+header {
+    background-image: url("../img/hero-img.jpg");
+    height: 715px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#top-bar {
+    height: 56.5px;
+    font-size: 17px;
+    font-family: "PT Serif", serif;
+}
+
+#page-title h5 {
+    margin: 19px 0 19px 60px;
+}
+
+#page-title, #nav-bar {
+    padding-left: 60px;
+}
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    padding: 10px 30px 0 0;
+    font-size: 20px;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#hero-text {
+    float: left;
+    margin: 0 0 0 100px;
+}
+
+#hero-text p {
+    font-size: 30px;
+}
+
+/***** PORTFOLIO *****/
+
+#portfolio {
+    padding: 30px 0 30px 0;
+}
+
+.project img {
+    height: 251px;
+    width: 401px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-description {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+/***** ABOUT *****/
+
+#about {
+    height: 350px;
+    padding: 30px 0 30px 0;
+    background: #f4a4a4;
+}
+
+#about-text {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-size: 17px;
+}
+
+/***** CONTACT *****/
+
+footer {
+    height: 468.183px;
+    background: #f2dede;
+}
+
+#contact {
+    height: 350px;
+    padding: 30px 0 30px 0;
+}
+
+#contact ul li {
+    list-style: none;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#left-column {
+    text-align: center;
+}
+
+#left-column ul li {
+    display: inline-block;
+}
+
+#left-column img {
+    height: 28px;
+    width: 28px;
+    position: relative;
+    top: 8px;
+    margin-right: 7px;
+}
+
+#profile-img img {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#right-column {
+    text-align: center;
+}
+
+#right-column img {
+    height: 40px;
+    width: 40px;
+}
+
+#right-column ul {
+    padding: 0;
+}
+
+#right-column ul li {
+    display: inline-block;
+}
+
+#footer-row h5 {
+    margin: 19px 0 19px 60px;
+}
+
+
+
+
