@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     font-family: "Shadows into light", cursive;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     color: #cc3535;
 }
@@ -121,7 +121,7 @@ nav ul li a {
 /***** ABOUT *****/
 
 #about {
-    height: 350px;
+    height: 400px;
     padding: 30px 0 30px 0;
     background: #f4a4a4;
 }
