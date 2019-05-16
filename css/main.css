@@ -30,10 +30,6 @@ p, a {
 
 /***** GRID *****/
 
-html {
-    width: 1200px;
-}
-
 .full-width {
     width: 1200px;
     clear: both;
